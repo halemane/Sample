@@ -1,0 +1,2 @@
+Hey this is my first work with git
+i have connected from the local git to global github
